@@ -13,6 +13,10 @@ Upload a dataset into an S3 bucket.
 
 🏆 Publish a dashboard full of insights into your dataset!
 
+![Workflow](https://github.com/tarushiarora/AWS-Data-visualization-with-Quicksight/blob/main/steps.png)
+
+
+
 
 
 
