@@ -1,6 +1,4 @@
-# AWS-Data-visualization-with-Quicksight
-
-# Netflix Data Analysis with Amazon QuickSight 📊
+# AWS - Netflix Data Visualization with Amazon QuickSight 📊
 
 Explore how to visualize and analyze large datasets effortlessly using **Amazon QuickSight**! This project leverages QuickSight to transform Netflix shows and movies data into meaningful insights.
 
@@ -18,6 +16,8 @@ Explore how to visualize and analyze large datasets effortlessly using **Amazon 
 3. **Data Connection**: Link the S3 bucket to QuickSight using the `manifest.json`.
 4. **Visualization**: Create various graphs and apply filters for in-depth analysis.
 5. **Dashboard Publishing**: Generate and publish an insightful dashboard.
+
+ **The manifest.json file provides instructions to Amazon QuickSight on how to locate and interpret the dataset stored in the S3 bucket. It includes details such as the bucket URL and file format for seamless data integration. I have uploaded a sample of how manifest.json looks like under the file name manifest.template.json.
 
 
 ## 📷 Dashboard Sneak Peek
