@@ -13,7 +13,7 @@ Upload a dataset into an S3 bucket.
 
 🏆 Publish a dashboard full of insights into your dataset!
 
-https://github.com/user-attachments/assets/cb676870-228f-4864-a4a3-063797cebd69
+
 
 
 
